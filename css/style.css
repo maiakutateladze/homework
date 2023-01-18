@@ -1,0 +1,141 @@
+.container-1 {
+	height: 396px;
+	width: 1088px;
+	background: white;
+	margin: 0 auto;
+}
+.blue {
+	color: #5863F8;
+}
+.text-1 {
+	border-color: #707070;
+	font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+
+   
+}
+.left {
+	display: inline-block;
+	background: #F8F8F8;
+
+
+
+}
+
+.left-block-image {
+    display: inline-block;
+    height: 190px;
+    width: 167px;
+    vertical-align: middle;
+    padding-right: 16px;
+    background: #F8F8F8;
+
+}
+.left-block {
+	width: 260px;
+	display: inline-block;
+	vertical-align: middle;
+	background: #F8F8F8;
+
+}
+
+.left-block-text {
+	margin: 42px 42px 18px 8px;
+	font-family: "ALK Rounded Nusx Med", sans-serif;
+	color: #B1B1B1;
+	font-size: 14px;
+
+}
+.right {
+	display: inline-block;
+	background: #BE2B2B;
+	margin: 54px 32px 121px 148px;
+}
+
+.right-block-image {
+	display: inline-block;
+    height: 190px;
+    width: 168px;
+    vertical-align: middle;
+    padding-right: 16px;
+
+}
+.right-block {
+	width: 260px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+.right-block-text {
+	 margin: 42px 42px 18px 8px;
+	 font-family: 'ALK Rounded Nusx Med';
+	 color: #B1B1B1;
+	 font-size: 14px;
+}
+
+.container-2 {
+	height: 560px;
+	width: 1088px;
+	background: white;
+	margin: 0 auto;
+}
+
+.left-block-2 {
+	width: 352px;
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 54px;
+
+}
+.text-2 {
+	display: inline-block;
+	background: #F8F8F8;
+	font-family: 'Poppins';
+	color: #B1B1B1;
+	text-align: center;
+	width: 352px;
+	height: 134px;
+	font-size: 14px;
+	
+
+}
+
+
+.middle-block-2 {
+	width: 352px;
+	display: inline-block;
+	margin-right: 10px;
+
+}
+.text-3 {
+	display: inline-block;
+	background: #F8F8F8;
+	font-family: 'Poppins';
+	color: #B1B1B1;
+	text-align: center;
+	width: 352px;
+	height: 134px;
+	font-size: 14px;
+	
+
+}
+
+.right-block-2 {
+	width: 352px;
+	display: inline-block;
+
+}
+.text-4 {
+	display: inline-block;
+	background: #F8F8F8;
+	font-family: 'Poppins';
+	color: #B1B1B1;
+	text-align: center;
+	width: 352px;
+	height: 134px;
+	font-size: 14px;
+	
+}
